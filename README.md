@@ -1,12 +1,6 @@
 # FS-3001---Internship-Research-Project
 # 📊 Purchase Order Creation Delay Analysis in Apparel Manufacturing
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
-![SAP](https://img.shields.io/badge/SAP-ERP-blue?style=for-the-badge&logo=sap)
-![Excel](https://img.shields.io/badge/Excel-Data%20Processing-green?style=for-the-badge&logo=microsoftexcel)
-![SPSS](https://img.shields.io/badge/SPSS-Statistical%20Analysis-purple?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-
 ---
 
 ## 🧭 Project Overview
@@ -55,6 +49,6 @@ The dataset was extracted from SAP procurement reports and includes:
 ### 1️⃣ Delay Calculation
 ```text
 PO Delay = PO Created Date - Requirement Date
-
+````
 ## Dashboard Preview
 ![Dashboard](https://github.com/saranga20010224/FS-3001---Internship-Research-Project/blob/main/PO%20Creation%20Delay%20Analysis/Screenshots/Screenshot%202026-05-16%20134237.png?raw=true)
