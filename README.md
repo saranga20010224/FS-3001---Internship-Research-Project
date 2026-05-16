@@ -2,6 +2,8 @@
 # 📊 Purchase Order Creation Delay Analysis in Apparel Manufacturing
 
 ---
+## Dashboard Preview
+![Dashboard](https://github.com/saranga20010224/FS-3001---Internship-Research-Project/blob/main/PO%20Creation%20Delay%20Analysis/Screenshots/Screenshot%202026-05-16%20134237.png?raw=true)
 
 ## 🧭 Project Overview
 
@@ -50,5 +52,8 @@ The dataset was extracted from SAP procurement reports and includes:
 ```text
 PO Delay = PO Created Date - Requirement Date
 ````
-## Dashboard Preview
-![Dashboard](https://github.com/saranga20010224/FS-3001---Internship-Research-Project/blob/main/PO%20Creation%20Delay%20Analysis/Screenshots/Screenshot%202026-05-16%20134237.png?raw=true)
+### 2️⃣ Data Preprocessing
+Removal of duplicate records
+Standardization of date formats
+Handling missing values
+Categorization of business comments
