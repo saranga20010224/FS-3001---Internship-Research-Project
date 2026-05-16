@@ -53,7 +53,7 @@ The dataset was extracted from SAP procurement reports and includes:
 PO Delay = PO Created Date - Requirement Date
 ````
 ### 2️⃣ Data Preprocessing
-Removal of duplicate records
-Standardization of date formats
-Handling missing values
-Categorization of business comments
+- Removal of duplicate records
+- Standardization of date formats
+- Handling missing values
+- Categorization of business comments
