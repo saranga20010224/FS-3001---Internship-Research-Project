@@ -57,3 +57,50 @@ PO Delay = PO Created Date - Requirement Date
 - Standardization of date formats
 - Handling missing values
 - Categorization of business comments
+
+### 3️⃣ Statistical Analysis (SPSS)
+- One-Way ANOVA (Plant-wise differences)
+- One-Way ANOVA (Customer-wise differences)
+- Chi-Square Test (Association between variables)
+
+### 4️⃣ Data Visualization (Power BI)
+Interactive dashboards were developed using Microsoft Power BI.
+Key visuals include:
+- 📊 Delay trend analysis
+- 🏭 Plant-wise performance comparison
+- 👤 Customer-wise delay analysis
+- 📦 Delay category distribution
+- 🧾 Operational cause analysis
+
+### 🔍 Key Findings
+- Overall PO performance appears stable at a high level
+- Significant delay variations exist across plants and customers
+- Planning and communication issues are major contributors to delays
+- Many POs lack proper delay documentation (comment gap)
+- Statistical tests confirm meaningful operational differences
+
+### 💡 Business Impact
+- Improved visibility into procurement delays
+- Supports data-driven decision-making
+- Identifies operational bottlenecks
+- Enhances supply chain monitoring
+- Improves manufacturing efficiency
+
+### 🚀 Future Improvements
+- Predictive modeling for PO delay forecasting
+- Supplier lead time analysis
+- Real-time automated dashboard updates
+- Integration with live SAP data
+
+### 🎓 Academic Context
+- Organization: Hela Apparel Holdings
+- University: University of Colombo
+- Degree: BSc in Industrial Statistics & Mathematical Finance
+- Module: FS 3001 Internship Training
+
+### 📬 Contact
+Connect with me on LinkedIn:
+https://www.linkedin.com/in/saranga-rathnayaka-189b6727a/
+
+### ⭐ If you like this project
+Give it a ⭐ on GitHub and feel free to explore or reuse this structure for your own analytics projects.
